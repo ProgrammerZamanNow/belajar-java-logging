@@ -1,0 +1,95 @@
+23:02:16.720 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+23:02:16.722 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+23:02:16.722 [main] INFO  programmerzamannow.logging.LevelTest - Info
+23:02:16.722 [main] WARN  programmerzamannow.logging.LevelTest - Warning
+23:02:16.722 [main] ERROR programmerzamannow.logging.LevelTest - Error
+23:02:46.583 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+23:02:46.585 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+23:02:46.585 [main] INFO  programmerzamannow.logging.LevelTest - Info
+23:02:46.585 [main] WARN  programmerzamannow.logging.LevelTest - Warning
+23:02:46.585 [main] ERROR programmerzamannow.logging.LevelTest - Error
+23:07:35.084 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+23:07:35.086 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+23:07:35.086 [main] INFO  programmerzamannow.logging.LevelTest - Info
+23:07:35.086 [main] WARN  programmerzamannow.logging.LevelTest - Warning
+23:07:35.086 [main] ERROR programmerzamannow.logging.LevelTest - Error
+2021-09-22 23:16:07.941 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+2021-09-22 23:16:07.942 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+2021-09-22 23:16:07.943 [main] INFO  programmerzamannow.logging.LevelTest - Info
+2021-09-22 23:16:07.943 [main] WARN  programmerzamannow.logging.LevelTest - Warning
+2021-09-22 23:16:07.943 [main] ERROR programmerzamannow.logging.LevelTest - Error
+2021-09-22 23:35:32.514 [main] INFO  p.logging.MyController - 345d8af4-bfbd-4fbb-a21c-d7461c38c61a - Controller Save
+2021-09-22 23:35:32.516 [main] INFO  programmerzamannow.logging.MyService - 345d8af4-bfbd-4fbb-a21c-d7461c38c61a - Service Save
+2021-09-22 23:35:32.516 [main] INFO  p.logging.MyRepository - 345d8af4-bfbd-4fbb-a21c-d7461c38c61a - Repository Save
+2021-09-22 23:39:57.772 [main] INFO  p.logging.MyController - [] - e44c4613-427b-423b-a5a6-d2b34f0e733e - Controller Save
+2021-09-22 23:39:57.775 [main] INFO  programmerzamannow.logging.MyService - [] - e44c4613-427b-423b-a5a6-d2b34f0e733e - Service Save
+2021-09-22 23:39:57.775 [main] INFO  p.logging.MyRepository - [] - e44c4613-427b-423b-a5a6-d2b34f0e733e - Repository Save
+2021-09-22 23:40:52.458 [main] INFO  p.logging.MyController - [d58440dd-5aee-4288-896f-a811b2b9486e] - d58440dd-5aee-4288-896f-a811b2b9486e - Controller Save
+2021-09-22 23:40:52.460 [main] INFO  programmerzamannow.logging.MyService - [d58440dd-5aee-4288-896f-a811b2b9486e] - d58440dd-5aee-4288-896f-a811b2b9486e - Service Save
+2021-09-22 23:40:52.461 [main] INFO  p.logging.MyRepository - [d58440dd-5aee-4288-896f-a811b2b9486e] - d58440dd-5aee-4288-896f-a811b2b9486e - Repository Save
+2021-09-22 23:41:51.816 [main] INFO  p.logging.MyController - [587e0939-2c47-486b-8acf-0cd5bff2c6d7] - Controller Save
+2021-09-22 23:41:51.817 [main] INFO  programmerzamannow.logging.MyService - [587e0939-2c47-486b-8acf-0cd5bff2c6d7] - Service Save
+2021-09-22 23:41:51.817 [main] INFO  p.logging.MyRepository - [587e0939-2c47-486b-8acf-0cd5bff2c6d7] - Repository Save
+2021-09-22 23:44:14.762 [Thread-0] INFO  p.logging.MyController - [] - Controller Save
+2021-09-22 23:44:14.763 [Thread-0] INFO  programmerzamannow.logging.MyService - [] - Service Save
+2021-09-22 23:44:14.763 [Thread-0] INFO  p.logging.MyRepository - [] - Repository Save
+2021-09-22 23:46:13.547 [Thread-1] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-2] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-6] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-0] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-4] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.548 [Thread-1] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.547 [Thread-9] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-7] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-3] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.548 [Thread-9] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.547 [Thread-8] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.547 [Thread-5] INFO  p.logging.MyController - [ec44de89-8795-4f21-be43-3bae8eddca67] - Controller Save
+2021-09-22 23:46:13.548 [Thread-0] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-2] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-5] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-6] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-4] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-1] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.548 [Thread-7] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-9] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-0] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-2] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.548 [Thread-3] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.548 [Thread-8] INFO  programmerzamannow.logging.MyService - [ec44de89-8795-4f21-be43-3bae8eddca67] - Service Save
+2021-09-22 23:46:13.549 [Thread-4] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-5] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-6] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-7] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-3] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:13.549 [Thread-8] INFO  p.logging.MyRepository - [ec44de89-8795-4f21-be43-3bae8eddca67] - Repository Save
+2021-09-22 23:46:29.966 [Thread-4] INFO  p.logging.MyController - [3754cb6e-61ee-4902-92c6-40b4d609373c] - Controller Save
+2021-09-22 23:46:29.966 [Thread-9] INFO  p.logging.MyController - [ffb82474-a10f-4f9d-b91d-aba8cc8307f4] - Controller Save
+2021-09-22 23:46:29.966 [Thread-7] INFO  p.logging.MyController - [5a410fe0-4e34-4801-989b-2722ccf4224d] - Controller Save
+2021-09-22 23:46:29.966 [Thread-1] INFO  p.logging.MyController - [93a2ce21-a943-4fa2-84f9-a9a413ab4185] - Controller Save
+2021-09-22 23:46:29.966 [Thread-3] INFO  p.logging.MyController - [c5ea5b28-c424-4269-8805-416bf2c5f01e] - Controller Save
+2021-09-22 23:46:29.966 [Thread-5] INFO  p.logging.MyController - [3cf1911b-14e5-4d11-9036-dcfae306ba49] - Controller Save
+2021-09-22 23:46:29.967 [Thread-4] INFO  programmerzamannow.logging.MyService - [3754cb6e-61ee-4902-92c6-40b4d609373c] - Service Save
+2021-09-22 23:46:29.967 [Thread-3] INFO  programmerzamannow.logging.MyService - [c5ea5b28-c424-4269-8805-416bf2c5f01e] - Service Save
+2021-09-22 23:46:29.966 [Thread-8] INFO  p.logging.MyController - [9631f8e1-1e45-424d-9aac-7b89dc4ff383] - Controller Save
+2021-09-22 23:46:29.966 [Thread-2] INFO  p.logging.MyController - [ec0bedf3-0a1b-460b-8c47-b84ac3a793a2] - Controller Save
+2021-09-22 23:46:29.966 [Thread-6] INFO  p.logging.MyController - [4c74c720-7845-4f59-b575-1c54f320624f] - Controller Save
+2021-09-22 23:46:29.966 [Thread-0] INFO  p.logging.MyController - [529c3b7c-a8af-43c8-a87b-504a84cf47a8] - Controller Save
+2021-09-22 23:46:29.967 [Thread-8] INFO  programmerzamannow.logging.MyService - [9631f8e1-1e45-424d-9aac-7b89dc4ff383] - Service Save
+2021-09-22 23:46:29.967 [Thread-1] INFO  programmerzamannow.logging.MyService - [93a2ce21-a943-4fa2-84f9-a9a413ab4185] - Service Save
+2021-09-22 23:46:29.967 [Thread-0] INFO  programmerzamannow.logging.MyService - [529c3b7c-a8af-43c8-a87b-504a84cf47a8] - Service Save
+2021-09-22 23:46:29.967 [Thread-7] INFO  programmerzamannow.logging.MyService - [5a410fe0-4e34-4801-989b-2722ccf4224d] - Service Save
+2021-09-22 23:46:29.967 [Thread-8] INFO  p.logging.MyRepository - [9631f8e1-1e45-424d-9aac-7b89dc4ff383] - Repository Save
+2021-09-22 23:46:29.967 [Thread-9] INFO  programmerzamannow.logging.MyService - [ffb82474-a10f-4f9d-b91d-aba8cc8307f4] - Service Save
+2021-09-22 23:46:29.967 [Thread-0] INFO  p.logging.MyRepository - [529c3b7c-a8af-43c8-a87b-504a84cf47a8] - Repository Save
+2021-09-22 23:46:29.967 [Thread-5] INFO  programmerzamannow.logging.MyService - [3cf1911b-14e5-4d11-9036-dcfae306ba49] - Service Save
+2021-09-22 23:46:29.967 [Thread-4] INFO  p.logging.MyRepository - [3754cb6e-61ee-4902-92c6-40b4d609373c] - Repository Save
+2021-09-22 23:46:29.967 [Thread-3] INFO  p.logging.MyRepository - [c5ea5b28-c424-4269-8805-416bf2c5f01e] - Repository Save
+2021-09-22 23:46:29.967 [Thread-2] INFO  programmerzamannow.logging.MyService - [ec0bedf3-0a1b-460b-8c47-b84ac3a793a2] - Service Save
+2021-09-22 23:46:29.967 [Thread-6] INFO  programmerzamannow.logging.MyService - [4c74c720-7845-4f59-b575-1c54f320624f] - Service Save
+2021-09-22 23:46:29.967 [Thread-7] INFO  p.logging.MyRepository - [5a410fe0-4e34-4801-989b-2722ccf4224d] - Repository Save
+2021-09-22 23:46:29.967 [Thread-2] INFO  p.logging.MyRepository - [ec0bedf3-0a1b-460b-8c47-b84ac3a793a2] - Repository Save
+2021-09-22 23:46:29.967 [Thread-1] INFO  p.logging.MyRepository - [93a2ce21-a943-4fa2-84f9-a9a413ab4185] - Repository Save
+2021-09-22 23:46:29.967 [Thread-6] INFO  p.logging.MyRepository - [4c74c720-7845-4f59-b575-1c54f320624f] - Repository Save
+2021-09-22 23:46:29.967 [Thread-9] INFO  p.logging.MyRepository - [ffb82474-a10f-4f9d-b91d-aba8cc8307f4] - Repository Save
+2021-09-22 23:46:29.967 [Thread-5] INFO  p.logging.MyRepository - [3cf1911b-14e5-4d11-9036-dcfae306ba49] - Repository Save
